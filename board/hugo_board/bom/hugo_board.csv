@@ -1,0 +1,6 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref,,
+1,"J4,J8,J10,J1,J5,J2,J9,J6,J3",TerminalBlock_4Ucon_1x02_P3.50mm_Vertical,9,Screw_Terminal_01x02,,,
+2,"R7,R8,R4,R1,R9,R6,R3,R2,R5",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,9,110,,,
+3,"SW3,SW1,SW2",TerminalBlock_4Ucon_1x02_P3.50mm_Vertical,3,SW_Push,,,
+4,"Ref**,Ref**",drawing,2,Val**,,,
+5,J7,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,1,Screw_Terminal_01x02,,,
